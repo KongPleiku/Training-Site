@@ -1,0 +1,15 @@
+C:\VS prject\c#\GenerationSeries\Builder\bin\Debug\net8.0\Builder.exe
+C:\VS prject\c#\GenerationSeries\Builder\bin\Debug\net8.0\Builder.deps.json
+C:\VS prject\c#\GenerationSeries\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+C:\VS prject\c#\GenerationSeries\Builder\bin\Debug\net8.0\Builder.dll
+C:\VS prject\c#\GenerationSeries\Builder\bin\Debug\net8.0\Builder.pdb
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.csproj.AssemblyReference.cache
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.dll
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\refint\Builder.dll
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.pdb
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+C:\VS prject\c#\GenerationSeries\Builder\obj\Debug\net8.0\ref\Builder.dll
