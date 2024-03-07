@@ -1,0 +1,56 @@
+Single-responsibility principle:
+
+Concept:
+- A PLAYER class should not self manage it function
+- Instead, PLAYER class will have control the module that control the function:
+
+EX:
+*In Normal PLAYER class:
+public class PLAYER{
+    [Serialize] private Animator animation;
+
+    public void update(){
+         if(input.getKeyDown(Key.a) || input.getKeyDown(Key.d)){
+            //Move function//
+            //animation//
+        }
+
+        if(input.getKeyDown(Key.space)){
+            //Jump function//
+            //animation//
+        }
+    }
+}
+
+This still work but it make the system hard to understand and cannot extendable and reuse the code:
+
+
+*In Better PLAYER class: 
+
+public class PLAYER{
+    void update(){
+        if(input.getKeyDown(Key.a) || input.getKeyDown(Key.d)){
+            Move();
+            PlayAnimation();
+        }
+
+        if(input.getKeyDown(Key.space)){
+            Jump();
+            PlayAnimation();
+        }
+    }
+
+    void Move(){
+        // function to move here///
+    }
+
+    void Jump(){
+        // function to jump here///
+    }
+
+    void PlayAnimation(){
+        // function to play the animation here///
+    }
+}
+
+Making this modulize help resue the code and each module take responsibility to each feature, and PLAYER take responsibility for control these module

@@ -1,0 +1,15 @@
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\bin\Debug\net8.0\Single-responsibility principle.exe
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\bin\Debug\net8.0\Single-responsibility principle.deps.json
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\bin\Debug\net8.0\Single-responsibility principle.runtimeconfig.json
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\bin\Debug\net8.0\Single-responsibility principle.dll
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\bin\Debug\net8.0\Single-responsibility principle.pdb
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.csproj.AssemblyReference.cache
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.AssemblyInfoInputs.cache
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.AssemblyInfo.cs
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.csproj.CoreCompileInputs.cache
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.dll
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\refint\Single-responsibility principle.dll
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.pdb
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\Single-responsibility principle.genruntimeconfig.cache
+C:\VS prject\c#\UnityPartern Series\Single-responsibility principle\obj\Debug\net8.0\ref\Single-responsibility principle.dll
